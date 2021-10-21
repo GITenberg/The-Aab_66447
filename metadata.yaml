@@ -1,5 +1,8 @@
 _repo: The-Aab_66447
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66447-h/images/cover.jpg
 creator:
   author:
     agent_name: Ludwig, Edward W.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '35976'
     url: http://www.gutenberg.org/2009/agents/35976
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66447#The-Aab
 gutenberg_issued: '2021-10-02'
 identifiers:
   gutenberg: '66447'
